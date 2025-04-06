@@ -69,13 +69,13 @@ Each round has multiple games. Each game has a winning pattern.
 
 1. Clone or download this repository
 2. Open the project in your preferred IDE, or navigate to the project directory in terminal
-3. Ensure `TambolaGame.java` is in your source directory
+3. Ensure `ClaimValidatorTest.java` is in your source directory
 
 ### Using Command Line
 
 ```bash
-javac TambolaGame.java
-java TambolaGame
+javac ClaimValidatorTest.java
+java ClaimValidatorTest
 ```
 
 ## Project Structure
